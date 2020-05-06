@@ -1,7 +1,7 @@
 # RSA_node_py
 
 ### Fork the repo or simply clone it
-- [x] `git clone https://github.com/despider001/RSA_node_py.git`
+- [x] `git clone https://github.com/despider001/rsa-node.js-python.git`
 
 ### Generate publicKey and privateKey from the python client
 - [x] generate publicKey and privateKey (`python /RSA_node_py/pyApp/keyGen.py`)
